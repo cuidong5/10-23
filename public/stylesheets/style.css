@@ -1,0 +1,122 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a {
+  color: black;
+  font-weight: bold;
+}
+.da{
+	height: 50px;
+}
+ul{
+	width: 500px;
+	height: 50px;
+	float: right;
+}
+ul li{
+	width: 30px;
+	height: 50px;
+	margin-left: 30px;
+	float: left;
+	line-height: 50px;
+}
+.gengDuo{
+	width: 80px;
+	height: 20px;
+	background-color: dodgerblue;
+	float: right;
+	margin-top: 15px;
+	margin-right: 20px;
+	line-height: 20px;
+	text-align: center;
+}
+.one{
+	text-decoration: none;
+	color: #FFF;
+}
+.baiDu{
+	width: 242px;
+	height: 78px;
+	margin: 0 auto;
+}
+img{
+	margin-left: -200px;
+}
+.kuang{
+	width: 700px;
+	height: 35px;
+	margin-top: 190px;
+	margin-left: 280px;
+	float: left;
+}
+input{
+	width: 700px;
+	height: 35px;
+}
+/*.ji{
+	width: 50px;
+	height: 35px;
+	background-color: chartreuse;
+}*/
+.suo{
+	width: 150px;
+	height: 38px;
+	background-color: #3285ff;
+	float: left;
+	margin-top: 190px;
+	font-size: 20px;
+	line-height: 38px;
+	text-align: center;
+}
+.er{
+	width: 100px;
+	height: 100px;
+	margin-top: 300px;
+	margin-left: 575px;
+}
+.a{
+	margin-left: 20px;
+}
+p{
+	text-align: center;
+}
+.nav{
+	width: 700px;
+	height: 20px;
+	margin-left: 350px;
+}
+.three{
+	width: 650px;
+	height: 20px;
+}
+.three li{
+	width: 98px;
+	height: 20px;
+	float: left;
+}
+.three li a{
+	color: #ccc;
+}
+.shi{
+	width: 750px;
+	height: 20px;
+	margin-top: 50px;
+	margin-left: 350px;
+}
+.zuo{
+	width: 400px;
+	height: 20px;
+	float: left;
+	color: #ccc;
+}
+.you{
+	width: 350px;
+	height: 20px;
+	float: right;
+	color: #ccc;
+}
